@@ -1,0 +1,2 @@
+# streamVisualiser
+Visualise streaming data
